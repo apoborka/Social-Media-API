@@ -164,7 +164,7 @@ Body:
     "username": "testuser"
   }
 
-Replace :thoughtId with the Thought ID associated with the reaction.
+  Replace :thoughtId with the Thought ID associated with the reaction.
 ```
 ```
 7. Delete a Reaction by [Thought] ID
