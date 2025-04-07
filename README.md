@@ -24,11 +24,18 @@ To test the application using Jest, run ```npm run test```.
 
 ![](assets/Testing.jpg)
 
+*Click the link below to download my Social-Media-API Insomnia collection, complete with environmental variables that use data directly from request responses.*
+
+Download the collection [HERE](https://drive.google.com/file/d/1UF-HXoMvPVFCmx_HgrutA2iT0xupZjPT/view?usp=sharing).
+
+Note: The issues noted with the reactionId variable in the tutorial walkthrough have been resolved in the file above. 
+
 ## Usage
 
-Walkthrough Video: [Currently Unavailable]
+[Download the Walkthrough/Tutorial here.](https://drive.google.com/file/d/15EFUrB7QdTx6oxEwLI9sna1hBREG-Yq3/view?usp=sharing) [9:02 Runtime]
 
-Open [Insomnia](https://insomnia.rest/) or [Postman](https://insomnia.rest/) and utilize the following routes to interact with the application:
+Open [Insomnia](https://insomnia.rest/) or [Postman](https://insomnia.rest/) and utilize the following routes to interact with the application.
+Alternatively, import the Insomnia collection that has been provided at the bottom of the "Installation" section of this README.
 
 
 #### User Interactions
