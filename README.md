@@ -32,10 +32,11 @@ Note: The issues noted with the reactionId variable in the tutorial walkthrough 
 
 ## Usage
 
-[Download the Walkthrough/Tutorial here.](https://drive.google.com/file/d/15EFUrB7QdTx6oxEwLI9sna1hBREG-Yq3/view?usp=sharing) [9:02 Runtime]
+[Watch the Walkthrough/Tutorial here.](https://drive.google.com/file/d/1MI1Kym0hHw23xDknuC_q3BspEo7t4_fI/view?usp=sharing) [7:45 Runtime]
 
 Open [Insomnia](https://insomnia.rest/) or [Postman](https://insomnia.rest/) and utilize the following routes to interact with the application.
-Alternatively, import the Insomnia collection that has been provided at the bottom of the "Installation" section of this README.
+
+Import the Insomnia collection that has been provided at the bottom of the "[Installation](#installation)" section of this README.
 
 
 #### User Interactions
