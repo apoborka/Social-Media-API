@@ -28,8 +28,6 @@ To test the application using Jest, run ```npm run test```.
 
 Download the collection [HERE](https://drive.google.com/file/d/1UF-HXoMvPVFCmx_HgrutA2iT0xupZjPT/view?usp=sharing).
 
-Note: The issues noted with the reactionId variable in the tutorial walkthrough have been resolved in the file above. 
-
 ## Usage
 
 [Watch the Walkthrough/Tutorial here.](https://drive.google.com/file/d/1MI1Kym0hHw23xDknuC_q3BspEo7t4_fI/view?usp=sharing) [7:45 Runtime]
